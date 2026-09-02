@@ -20,5 +20,5 @@ I'm a Computer Science student at Binus University and a passionate Software Dev
 *   **Finance & Bank Management Web:** A full-stack web application managed and deployed on a Linux server.
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Link Profil LinkedIn-mu]
-- **Email:** [Alamat Email-mu]
+- **LinkedIn:** 
+- **Email:** 
