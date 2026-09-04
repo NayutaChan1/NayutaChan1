@@ -1,4 +1,4 @@
-[![Rafael Febrian, portfolio](portfolio.png)](https://github.com/NayutaChan1/WebsitePortofolio)
+[![Rafael Febrian, portfolio](portfolio-banner.png)](https://github.com/NayutaChan1/WebsitePortofolio)
 
 
 ```text
