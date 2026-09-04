@@ -27,7 +27,7 @@ calendars that sync two ways, sensors that keep reporting when nobody is watchin
 | **ShareForecast** | News sentiment on the same chart as the price, plus a test for whether the sentiment actually leads it. Refuses to conclude when the sample is too small. | [Repo](https://github.com/NayutaChan1/ShareForecast) |
 | **Homeserver** | Sixteen containers on a second hand mini PC. Nothing forwarded from the router, everything documented, including the mistakes. | [Docs](https://home-server-documentation.vercel.app/) · [Repo](https://github.com/NayutaChan1/HomeServerDocumentation) |
 | **MoSec** | Lab monitoring: ESP32 sensors on doors and projectors, a Nuxt dashboard, a FastAPI briefing service and a Tauri kiosk, all agreeing on the same room. | [Repo](https://github.com/NayutaChan1/RIG_Even2025-2026) · [Demo](https://youtu.be/_xJTJ5Oh5Cg) |
-| **FlowBox MaXimizer** | Android planner that keeps Google Calendar and Outlook in sync both ways, incrementally, without duplicating events. | [Repo](https://github.com/NayutaChan1/MOBILE-MX-FB-251) | [Playstore](https://play.google.com/store/apps/details?id=edu.bluejack25_1.FlowBoxMaXimizer)
+| **FlowBox MaXimizer** | Android planner that keeps Google Calendar and Outlook in sync both ways, incrementally, without duplicating events. | [Repo](https://github.com/NayutaChan1/MOBILE-MX-FB-251) · [Playstore](https://play.google.com/store/apps/details?id=edu.bluejack25_1.FlowBoxMaXimizer) |
 
 ## Reach me
 
