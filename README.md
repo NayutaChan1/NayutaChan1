@@ -1,3 +1,6 @@
+[![Rafael Febrian, portfolio](assets/portfolio.png)](https://github.com/NayutaChan1/WebsitePortofolio)
+
+
 ```text
 rafael@github
 ──────────────────────────────────────────────────────────
