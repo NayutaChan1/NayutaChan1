@@ -1,24 +1,32 @@
-# Hi there, I'm Rafael Febrian! 👋
+```text
+rafael@github
+──────────────────────────────────────────────────────────
+Host        BINUS University, Computer Science
+Role        Laboratory Assistant at BINUS SLC (full time)
+Uptime      Two full schedules in parallel: working and studying
+Packages    5 shipped · 1 in daily use at a warung
+Location    Jakarta, Indonesia
+Currently   Building ShareForecast · occasional CTFs
+```
 
-I'm a Computer Science student at Binus University and a passionate Software Developer. I enjoy building end-to-end applications, exploring Artificial Intelligence, and diving deep into infrastructure.
+I build things that have to survive contact with real data: payments that must not go missing,
+calendars that sync two ways, sensors that keep reporting when nobody is watching.
 
-## 🛠️ What I Do
-- **Full-Stack Development:** Building robust web applications and microservices.
-- **AI & Computer Vision:** Integrating machine learning models (like foot contour detection) into real-world applications.
-- **DevOps & Infrastructure:** Containerizing apps and managing server deployments.
-- **Cybersecurity:** Occasionally participating in CTF competitions and exploring binary exploitation.
+<!-- After deploying the portfolio, replace the link below with the live URL. -->
 
-## 💻 Tech Stack & Tools
-- **Frontend:** React, Vue 3
-- **Backend:** NestJS, Prisma, PostgreSQL
-- **DevOps:** Docker, Kubernetes, Terraform, Ansible
-- **AI/ML:** NLP, Computer Vision (CNN, LSTM, BERT)
+**Portfolio:** [github.com/NayutaChan1/WebsitePortofolio](https://github.com/NayutaChan1/WebsitePortofolio)
 
-## 🚀 Highlighted Projects
-*   **Foot Sizer:** A mobile application utilizing AI and Computer Vision to provide accurate shoe size recommendations by scanning a user's foot.
-*   **Feebstagram:** A microservices-based content management project.
-*   **Finance & Bank Management Web:** A full-stack web application managed and deployed on a Linux server.
+## What I have shipped
 
-## 📫 Let's Connect!
-- **LinkedIn:** 
-- **Email:** 
+| Project | What it is | Links |
+| --- | --- | --- |
+| **Rumipang** | QR ordering for a warung: customer web plus a Flutter cashier app driving a Bluetooth thermal printer. Taking real orders and real money since August 2026. | [Live](https://rumipang.vercel.app) · [Web](https://github.com/RickyRudiansyah/Warkop_v) · [App](https://github.com/RickyRudiansyah/RumipangApp) |
+| **ShareForecast** | News sentiment on the same chart as the price, plus a test for whether the sentiment actually leads it. Refuses to conclude when the sample is too small. | [Repo](https://github.com/NayutaChan1/ShareForecast) |
+| **Homeserver** | Sixteen containers on a second hand mini PC. Nothing forwarded from the router, everything documented, including the mistakes. | [Docs](https://home-server-documentation.vercel.app/) · [Repo](https://github.com/NayutaChan1/HomeServerDocumentation) |
+| **MoSec** | Lab monitoring: ESP32 sensors on doors and projectors, a Nuxt dashboard, a FastAPI briefing service and a Tauri kiosk, all agreeing on the same room. | [Repo](https://github.com/NayutaChan1/RIG_Even2025-2026) · [Demo](https://youtu.be/_xJTJ5Oh5Cg) |
+| **FlowBox MaXimizer** | Android planner that keeps Google Calendar and Outlook in sync both ways, incrementally, without duplicating events. | [Repo](https://github.com/NayutaChan1/MOBILE-MX-FB-251) |
+
+## Reach me
+
+- rf05022006@gmail.com
+- [linkedin.com/in/rafael-febrian-1086b433b](https://www.linkedin.com/in/rafael-febrian-1086b433b)
