@@ -4,7 +4,7 @@ rafael@github
 Host        BINUS University, Computer Science
 Role        Laboratory Assistant at BINUS SLC (full time)
 Uptime      Two full schedules in parallel: working and studying
-Packages    5 shipped · 1 in daily use at a warung
+Packages    5 shipped · one of them in production
 Location    Jakarta, Indonesia
 Currently   Building ShareForecast · occasional CTFs
 ```
